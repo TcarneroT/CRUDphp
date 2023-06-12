@@ -1,7 +1,7 @@
 <?php
 
     require "conexionBBDD.php";
-    $objConexion = Conexion ();
+    $objConexion = Conexion();
 
     $ident= $_POST["ident"];
     $nombre= $_POST["nombre"];

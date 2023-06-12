@@ -1,0 +1,19 @@
+
+table{
+    margin: auto auto;
+}
+td, th{
+    border: solid grey;
+    text-align: center;
+}
+input.id{
+    display: none;  
+}
+
+.boton{
+    border: none;
+}
+.cont{
+    display: block;
+    
+}

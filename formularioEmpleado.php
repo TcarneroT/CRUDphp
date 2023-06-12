@@ -84,6 +84,7 @@ $resultado = $objConexion->query($sql);
             <div class="cont">
                 <a href="formularioUsuarios.php">Ingresar usuarios</a>
                 <a href="formularioCargos.php">Ingresar cargos</a>
+                <a href="formularioListar.php">Ver empleados</a>
             </div>
         </form>
 

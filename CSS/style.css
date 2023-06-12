@@ -23,6 +23,7 @@ html,body{
 .cont input, select{
     margin-left: auto;
 }
+
 .btn{
     width: 100%;
     display: flex;
